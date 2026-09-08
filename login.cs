@@ -1,1 +1,1 @@
-function login (string password, string username)
+function login (string password, string username, string token)
